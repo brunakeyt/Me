@@ -18,7 +18,12 @@
 ## Estatísticas
 
 <div>
-<a href="https://github.com/brunakeyt">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakeyt&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakeyt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<table>
+<tr>
+<td><a href="https://github.com/brunakeyt">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakeyt&layout=compact&langs_count=7&theme=dracula"/></td>
+<td><a href="https://github.com/brunakeyt">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakeyt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+</tr>
+</table>
 </div>
