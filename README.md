@@ -8,7 +8,7 @@
 
 ## Certificação
 
-![AI900](./microsoft-certified-azure-ai-fundamentals.png)
+<img src="./microsoft-certified-azure-ai-fundamentals.png" height="100px" width="100px">
 
 ## Contatos
 
