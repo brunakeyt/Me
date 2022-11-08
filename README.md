@@ -2,6 +2,8 @@
 
 <h3 align="center"> ✨ Sejam bem-vindos ao meu github devs! ✨ </h3> <br>
 
+<img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=+;Meu+nome+é+Bruna+Keyt;Tenho+21+anos;Sou+de+São+Paulo+-+SP)](https://git.io/typing-svg)
 
 <br>
@@ -10,11 +12,7 @@
 
 > I've been studying analysis and systems development since August/2022 at Senai Jorge Mahfuz 
 
-<br>
-
-## <img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
-
-<br> <br>
+<br> <br> <br>
 
 ## Certificação
 
