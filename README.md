@@ -4,15 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=+;Meu+nome+é+Bruna+Keyt;Tenho+21+anos;Sou+de+São+Paulo+-+SP)](https://git.io/typing-svg)
 
-<img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
-
-<br> <br>
+<br>
 
 > Estudante de Análise e desenvolvimento de sistemas desde 08/2022 no Senai Jorge Mahfuz
 
 > I've been studying analysis and systems development since August/2022 at Senai Jorge Mahfuz 
 
-<br> <br> <br>
+<br>
+
+<img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
+
+<br> <br>
 
 ## Certificação
 
