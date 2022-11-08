@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
+## <img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
 
 <br> <br>
 
