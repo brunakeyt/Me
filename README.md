@@ -6,11 +6,13 @@
 
 <img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
 
+<br>
+
 > Estudante de Análise e desenvolvimento de sistemas desde 08/2022 no Senai Jorge Mahfuz
 
 > I've been studying analysis and systems development since August/2022 at Senai Jorge Mahfuz 
 
- <br> <br> <br> <br>
+ <br> <br> <br>
 
 ## Certificação
 
