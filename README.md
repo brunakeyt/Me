@@ -1,16 +1,34 @@
-<h1 align="center"> Bruna Keyt </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 
-> Estudante de Análise e desenvolvimento de sistemas
+<h3 align="center"> ✨ Sejam bem-vindos ao meu github devs! ✨ </h3> <br>
 
-> Senai Jorge Mahfuz
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=+;Meu+nome+é+Bruna+Keyt;Tenho+21+anos;Sou+de+São+Paulo+-+SP)](https://git.io/typing-svg)
 
- <h3 align="center"> ✨ Sejam bem-vindos ao meu github devs! ✨ </h3>
+<img align="right" width="300px" height="225px" alt="Coding" src="https://falaaeh.files.wordpress.com/2013/07/giphy.gif?w=335"/>
+
+> Estudante de Análise e desenvolvimento de sistemas desde 08/2022 no Senai Jorge Mahfuz
+
+> I've been studying analysis and systems development since August/2022 at Senai Jorge Mahfuz 
+
+ <br> <br> <br> <br>
 
 ## Certificação
 
 <img src="./microsoft-certified-azure-ai-fundamentals.png" height="100px" width="100px">
 
 Link certificação:  https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076fe6abcd48/public_url
+
+## Habilidades
+
+<ul><li>
+<div style="overflow:hidden;">
+<img width="50px" height="50px" src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2020/02/html.png?fit=256%2C256&ssl=1" alt="html">
+<img width="50px" height="50px" src="https://icones.pro/wp-content/uploads/2022/08/css3.png" alt="css">
+<img width="50px" height="50px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VScode">
+<img width="50px" height="50px" src="https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" alt="C">
+</div></ul>
+
+<ul><li>HTML, CSS, VScode, Linguagem C.</ul>
 
 ## Contatos
 
@@ -23,7 +41,7 @@ Link certificação:  https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076f
 ## Estatísticas
 
 <div>
-<table>
+<table style="border-style:">
 <tr>
 <td><a href="https://github.com/brunakeyt">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakeyt&layout=compact&langs_count=7&theme=dracula"/></td>
@@ -32,3 +50,5 @@ Link certificação:  https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076f
 </tr>
 </table>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=footer"/>
