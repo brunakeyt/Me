@@ -19,6 +19,7 @@
 ## Certificação
 
 <img src="./microsoft-certified-azure-ai-fundamentals.png" height="100px" width="100px">
+<img src="./microsoft-certified-azure-data-fundamentals.png" height="100px" width="100px">
 
 Link certificação:  https://www.credly.com/badges/3aafeba7-1bf0-433e-8122-076fe6abcd48/public_url
 
