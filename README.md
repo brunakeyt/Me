@@ -6,9 +6,8 @@
 
 <br>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruna+Keyt;Tenho+22+anos;Sou+de+São+Paulo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruna+Keyt;Tenho+22+anos;Sou+de+São+Paulo)](https://git.io/typing-svg)
 
-<br> <br> <br>
 
 ## Certificação
 <div>
