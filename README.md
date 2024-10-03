@@ -26,6 +26,9 @@ Link certificação: https://www.credly.com/badges/175138a7-e041-4b51-b56e-eb859
   <li>HTML e CSS</li>
   <li>Java</li>
   <li>Python</li>
+  <li>Banco de dados relacional</li>
+  <li>Azure</li>
+  <li>IA</li>
 </ul>
 
 ## Contatos
