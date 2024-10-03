@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruna+Keyt;Tenho+22+anos;Sou+de+São+Paulo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d30081&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruna+Keyt;Tenho+23+anos;Sou+de+São+Paulo)](https://git.io/typing-svg)
 
 
 ## Certificação
@@ -22,15 +22,11 @@ Link certificação: https://www.credly.com/badges/175138a7-e041-4b51-b56e-eb859
 
 ## Habilidades
 
-<ul><li>
-<div style="overflow:hidden;">
-<img width="50px" height="50px" src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2020/02/html.png?fit=256%2C256&ssl=1" alt="html">
-<img width="50px" height="50px" src="https://icones.pro/wp-content/uploads/2022/08/css3.png" alt="css">
-<img width="50px" height="50px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VScode">
-<img width="50px" height="50px" src="https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" alt="C">
-</div></ul>
-
-<ul><li>HTML, CSS, VScode, Linguagem C.</ul>
+<ul>
+  <li>HTML e CSS</li>
+  <li>Java</li>
+  <li>Python</li>
+</ul>
 
 ## Contatos
 
